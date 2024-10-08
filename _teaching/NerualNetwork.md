@@ -1,4 +1,3 @@
-
 ---
 title: "Intro to Nerual Network" 
 collection: teaching
