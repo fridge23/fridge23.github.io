@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Hanyu Zeng"
+title                    : "Zeng, Hanyu"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "IMG_2973.png"
-  name             : "Hanyu Zeng (曾翰宇)"
+  name             : "Zeng, Hanyu (曾翰宇)"
   pronouns         : # example: "she/her"  
   bio              : "Nobody"
   location         : "Pittsburgh, USA"
