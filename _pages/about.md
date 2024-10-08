@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Personal Website for Hanyu Zeng"
+title: "Personal Website for Zeng, Hanyu"
 author_profile: true
 redirect_from: 
   - /about/
