@@ -26,7 +26,7 @@ Work experience
 * 2023.07-2023.12: Machine Learning Algorithm Engineer
   * MeiTuan
   * Duties included: Individually developed a multimodal AI assistant which can do hotel recommendation and question answering by text and image using JAVA and Python.
-  * Supervisor: Professor Hub
+  * Supervisor: Mao, Yu
 
   
 Skills
