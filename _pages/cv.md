@@ -31,7 +31,9 @@ Work experience
   
 Skills
 ======
-
+Proficient languages: C, Python, R, Java, SQL
+Deep learning frameworks: PyTorch, TensorFlow
+Tools: LaTex, GIT
 
 Publications
 ======
