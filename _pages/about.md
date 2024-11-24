@@ -1,4 +1,3 @@
-<meta name="google-site-verification" content="bgl5UI6C2gkaETluUyIwUhA0IhAezbQXQWS8NPxDd1w" />
 ---
 permalink: /
 title: "Bio"
@@ -7,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+<meta name="google-site-verification" content="bgl5UI6C2gkaETluUyIwUhA0IhAezbQXQWS8NPxDd1w" />
 
 My name is Zeng, Hanyu, and I am currently a second-year Ph.D. student in Information Science at the [University of Pittsburgh (PITT)](https://www.pitt.edu/), under the supervision of [Prof. Zhou, Pengfei](https://zhoupf.github.io/) in [MINT lab](https://mintpitt.github.io/). My research interests lie at the intersection of artificial intelligence and computer science, with a particular focus on Mobile AI, AI applications in healthcare, and the integration of Large Language Models in mobile contexts. At present, I am working on research related to insulin management for diabetes patients.
 
