@@ -157,7 +157,6 @@ include:
   - .htaccess
   - _pages
   - files
-  # - google3e000faefcff5767.html
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -305,7 +304,6 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jemoji
-  # - jekyll-seo-tag
 
 # Mimic GitHub Pages with --safe
 whitelist:
