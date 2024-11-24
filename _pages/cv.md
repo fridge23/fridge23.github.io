@@ -7,7 +7,7 @@ redirect_from:
   - /resume.pdf
 ---
 
-{% /resume.pdf %}
+
 
 Education
 ======
