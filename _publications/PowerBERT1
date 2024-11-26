@@ -3,7 +3,7 @@ title: "Unleashing the Power of Unlabeled Data: A Self-supervised Learning Frame
 collection: publications
 category: arxiv
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'Further exploration of PowerBERT. New designs on PowerBERT to address the common data imbalance issue in industry. Achieve 9.3% increase in accuracy on imbalanced datasets.'
+excerpt: 'Further exploration of PowerBERT. New designs on PowerBERT to address the common data imbalance issue with unlabeled data in industry. Achieve 9.3% increase in accuracy on imbalanced unlabeled datasets.'
 date: 2023-7-01
 venue: 
 slidesurl: 
