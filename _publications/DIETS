@@ -3,7 +3,7 @@ title: "DIETS: Diabetic Insulin Management System in Everyday Life"
 collection: publications
 category: arxiv
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'Designed an insulin management system providing injection recommendations based on diet descriptions and historical glucose/injection data.'
+excerpt: 'Designed an insulin management system providing injection recommendations based on diet descriptions and historical glucose/injection data. Very first research work on insulin management system with supervised learning models, which dramatically reduced the dependence on the professional assistance while model training, and give patients a chance to do customized adjustments for themselves. DIETS achieved superior performance compared with SOTA models.'
 date: 2024-11-19
 venue: 
 slidesurl: 
