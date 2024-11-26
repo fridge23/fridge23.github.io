@@ -3,7 +3,8 @@ title: "Detecting Cyber Attacks in Smart Grids with Massive Unlabeled Sensing Da
 collection: publications
 category: conferences
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'PowerBERT for normally detection in smart grid system.'
+excerpt: 'PowerBERT, a self-supervised learning model for anomaly detection trained with minimal labeled
+data using the BERT model. Achieved 93% accuracy, surpassing other SOTA models by over 15%.'
 date: 2022-12-01
 venue: '2022 IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm)'
 slidesurl: 
