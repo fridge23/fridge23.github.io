@@ -13,7 +13,7 @@ I hold a Master’s degree in Intelligent Systems from the [National University 
 
 
 ---
- "News"
+News
 ---
 
 I am starting my Research Scientist Intership in [Mitsubishi Electric Research Laboratories (MERL)](https://www.merl.com/) in Cambridge,MA from Feb.2025, focusing on anomaly detection in IoT system and cybersecurity.
