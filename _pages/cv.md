@@ -33,6 +33,11 @@ Work experience
   * University of Pittsburgh
   * Duties included: Algorithm Design, Intro to Neural Networks, and Application of Networks.
   * Supervisor: Zhou, Pengfei
+
+* 2025.02-Present: Research Scientist Intern
+  * Mitsubishi Electric Research Laboratories (MERL)
+  * Duties included: My research focusing on anomaly detection in IoT system and cybersecurity.
+  * Supervisor: Wang, Ye
   
 Skills
 ======
