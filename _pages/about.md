@@ -14,7 +14,7 @@ I hold a Master's degree in Intelligent Systems from the [National University of
 
 I am starting my Research Scientist Internship in [Mitsubishi Electric Research Laboratories (MERL)](https://www.merl.com/) in Cambridge, MA from Feb to May, 2025, focusing on anomaly detection in IoT systems and cybersecurity.
 
-Newest work **ViPoser: Sparse-IMU Based Human Pose Estimation with Distilled Vision Foundation Priors** has been accepted at [MobiCom 2026](https://www.sigmobile.org/mobicom/2026/).
+Newest work **ViPoser: Sparse-IMU Based Human Pose Estimation with Distilled Vision Foundation Priors** has been accepted at [MobiCom 2026](https://www.sigmobile.org/mobicom/2026/). [[PDF]](/files/ViPoser.pdf)
 
 <div style="font-family: Georgia, 'Times New Roman', serif; font-size: 1.02em; line-height: 1.72; color: #3f4a5c; border-left: 3px solid #0f766e; padding: 0.15em 0 0.15em 1.1em; margin: 0.9em 0 1em;">
 <p style="margin: 0 0 0.85em;">Signals in mobile and IoT systems are just numeric time series, which makes it hard for current ML models to learn the background knowledge behind a task — instead of understanding what they are working on, they simply learn an input-to-target mapping. Visual data, by contrast, carries far richer information such as human structure and kinematics.</p>
