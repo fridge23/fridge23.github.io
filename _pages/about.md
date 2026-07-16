@@ -12,7 +12,7 @@ I hold a Master's degree in Intelligent Systems from the [National University of
 
 ## News
 
-I am starting my Research Scientist Internship in [Mitsubishi Electric Research Laboratories (MERL)](https://www.merl.com/) in Cambridge, MA from Feb, 2025, focusing on anomaly detection in IoT systems and cybersecurity.
+I am starting my Research Scientist Internship in [Mitsubishi Electric Research Laboratories (MERL)](https://www.merl.com/) in Cambridge, MA from Feb to May, 2025, focusing on anomaly detection in IoT systems and cybersecurity.
 
 My newest paper **ViPoser: Sparse-IMU Based Human Pose Estimation with Distilled Vision Foundation Priors** has been accepted at [MobiCom 2026](https://www.sigmobile.org/mobicom/2026/).
 
