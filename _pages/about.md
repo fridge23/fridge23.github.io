@@ -8,7 +8,7 @@ redirect_from:
 ---
 My name is Zeng, Hanyu, and I am currently a second-year Ph.D. student in Information Science at the [University of Pittsburgh (PITT)](https://www.pitt.edu/), under the supervision of [Prof. Zhou, Pengfei](https://zhoupf.github.io/) in [MINT lab](https://mintpitt.github.io/). My research interests lie at the intersection of artificial intelligence and computer science, with a particular focus on Mobile AI, AI applications in healthcare, and the integration of Large Language Models in mobile contexts. My current research focuses on utilizing cutting-edge artificial intelligence technology to improve the health and lives of people with mobile devices and AI technologies.
 
-I hold a Master's degree in Intelligent Systems from the [National University of Singapore (NUS)](https://nus.edu.sg/) and Bachelor's degrees in Communication Engineering from the [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/). Before joining the University of Pittsburgh, I worked as a Machine Learning Algorithm Engineer at [MEITUAN](https://www.meituan.com/).
+I hold a Master's degree in Intelligent Systems from the [National University of Singapore (NUS)](https://nus.edu.sg/) and Bachelor's degrees in Communication Engineering from the [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/). Before joining the University of Pittsburgh, I worked as a Machine Learning Algorithm Engineer at [MEITUAN](https://www.meituan.com/) and also a research intern in [ILLINOIS ARCS](https://illinois-arcs.edu.sg/) under the supervision of [Prof. Zhou, Pengfei](https://zhoupf.github.io/) and [Prof. Lou, Xin](https://sites.google.com/view/xinlou2/) during my master education.
 
 ## News
 
